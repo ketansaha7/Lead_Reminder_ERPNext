@@ -1,0 +1,7 @@
+erpnext_reminder_app/
+├── erpnext_reminder_app/
+│   ├── __init__.py
+│   ├── hooks.py
+│   └── reminder_app.py
+├── setup.py
+└── MANIFEST.in
