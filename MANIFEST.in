@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include erpnext_reminder_app *.css
+recursive-include erpnext_reminder_app *.csv
+recursive-include erpnext_reminder_app *.html
+recursive-include erpnext_reminder_app *.ico
+recursive-include erpnext_reminder_app *.js
+recursive-include erpnext_reminder_app *.json
+recursive-include erpnext_reminder_app *.md
+recursive-include erpnext_reminder_app *.png
+recursive-include erpnext_reminder_app *.py
+recursive-include erpnext_reminder_app *.svg
+recursive-include erpnext_reminder_app *.txt
+recursive-exclude erpnext_reminder_app *.pyc
