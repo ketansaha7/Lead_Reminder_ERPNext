@@ -16,3 +16,4 @@ recursive-include erpnext_reminder_app *.py
 recursive-include erpnext_reminder_app *.svg
 recursive-include erpnext_reminder_app *.txt
 recursive-exclude erpnext_reminder_app *.pyc
+include erpnext_reminder_app/patches.txt
